@@ -179,6 +179,7 @@
             "text": "Analysis of 'Utility' type projects is not supported in this tool. Use direct analyzer integration or compiler monitoring instead."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -199,6 +200,7 @@
             "text": "The body of the 'if' statement should be enclosed in braces."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -219,6 +221,7 @@
             "text": "The body of the 'if' statement should be enclosed in braces."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -239,6 +242,8 @@
             "text": "The body of the 'if' statement should be enclosed in braces."
           },
           "level": "error",
+          "artifactLocation": { },
+		  "artifactLocation":
           "locations": [
             {
               "physicalLocation": {
@@ -259,6 +264,8 @@
             "text": "The body of the 'if' statement should be enclosed in braces."
           },
           "level": "error",
+          "artifactLocation": { },
+
           "locations": [
             {
               "physicalLocation": {
@@ -279,6 +286,8 @@
             "text": "The result of an assignment expression should not be used. Consider inspecting the expression: 'bottom_left_.y = 1e10'."
           },
           "level": "error",
+          "artifactLocation": { },
+
           "locations": [
             {
               "physicalLocation": {
@@ -299,6 +308,8 @@
             "text": "The result of an assignment expression should not be used. Consider inspecting the expression: 'top_right_.y = - 1e10'."
           },
           "level": "error",
+          "artifactLocation": { },
+
           "locations": [
             {
               "physicalLocation": {
@@ -319,6 +330,8 @@
             "text": "The body of the 'if' statement should be enclosed in braces."
           },
           "level": "error",
+          "artifactLocation": { },
+
           "locations": [
             {
               "physicalLocation": {
@@ -339,6 +352,7 @@
             "text": "The body of the 'if' statement should be enclosed in braces."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -359,6 +373,7 @@
             "text": "The body of the 'if' statement should be enclosed in braces."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -379,6 +394,7 @@
             "text": "The body of the 'if' statement should be enclosed in braces."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -399,6 +415,7 @@
             "text": "The result of an assignment expression should not be used. Consider inspecting the expression: 'bottom_left_.y = 1e10'."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -419,6 +436,7 @@
             "text": "The result of an assignment expression should not be used. Consider inspecting the expression: 'top_right_.y = - 1e10'."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -439,6 +457,7 @@
             "text": "C-style and functional notation casts should not be performed."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -459,6 +478,7 @@
             "text": "C-style and functional notation casts should not be performed."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -479,6 +499,7 @@
             "text": "C-style and functional notation casts should not be performed."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -499,6 +520,7 @@
             "text": "C-style and functional notation casts should not be performed."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -519,6 +541,7 @@
             "text": "The result of an assignment expression should not be used. Consider inspecting the expression: '* this = * this + other'."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -539,6 +562,7 @@
             "text": "The result of an assignment expression should not be used. Consider inspecting the expression: '* this = * this - other'."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -559,6 +583,7 @@
             "text": "The result of an assignment expression should not be used. Consider inspecting the expression: '* this = * this + other'."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -579,6 +604,7 @@
             "text": "The result of an assignment expression should not be used. Consider inspecting the expression: '* this = * this - other'."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -599,6 +625,7 @@
             "text": "Array indexing should be the only form of pointer arithmetic and it should be applied only to objects defined as an array type."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -619,6 +646,7 @@
             "text": "Array indexing should be the only form of pointer arithmetic and it should be applied only to objects defined as an array type."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -639,6 +667,7 @@
             "text": "Array indexing should be the only form of pointer arithmetic and it should be applied only to objects defined as an array type."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -659,6 +688,7 @@
             "text": "Array indexing should be the only form of pointer arithmetic and it should be applied only to objects defined as an array type."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -679,6 +709,7 @@
             "text": "Array indexing should be the only form of pointer arithmetic and it should be applied only to objects defined as an array type."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -699,6 +730,7 @@
             "text": "Array indexing should be the only form of pointer arithmetic and it should be applied only to objects defined as an array type."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -719,6 +751,7 @@
             "text": "Array indexing should be the only form of pointer arithmetic and it should be applied only to objects defined as an array type."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -739,6 +772,7 @@
             "text": "Array indexing should be the only form of pointer arithmetic and it should be applied only to objects defined as an array type."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -759,6 +793,7 @@
             "text": "Array indexing should be the only form of pointer arithmetic and it should be applied only to objects defined as an array type."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -779,6 +814,7 @@
             "text": "Array indexing should be the only form of pointer arithmetic and it should be applied only to objects defined as an array type."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -799,6 +835,7 @@
             "text": "Array indexing should be the only form of pointer arithmetic and it should be applied only to objects defined as an array type."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -819,6 +856,7 @@
             "text": "Array indexing should be the only form of pointer arithmetic and it should be applied only to objects defined as an array type."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -839,6 +877,7 @@
             "text": "Array indexing should be the only form of pointer arithmetic and it should be applied only to objects defined as an array type."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -859,6 +898,7 @@
             "text": "Array indexing should be the only form of pointer arithmetic and it should be applied only to objects defined as an array type."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -879,6 +919,7 @@
             "text": "Array indexing should be the only form of pointer arithmetic and it should be applied only to objects defined as an array type."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -899,6 +940,7 @@
             "text": "Array indexing should be the only form of pointer arithmetic and it should be applied only to objects defined as an array type."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -919,6 +961,7 @@
             "text": "Array indexing should be the only form of pointer arithmetic and it should be applied only to objects defined as an array type."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -939,6 +982,7 @@
             "text": "Array indexing should be the only form of pointer arithmetic and it should be applied only to objects defined as an array type."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -959,6 +1003,7 @@
             "text": "Array indexing should be the only form of pointer arithmetic and it should be applied only to objects defined as an array type."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -979,6 +1024,7 @@
             "text": "Array indexing should be the only form of pointer arithmetic and it should be applied only to objects defined as an array type."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -999,6 +1045,7 @@
             "text": "Array indexing should be the only form of pointer arithmetic and it should be applied only to objects defined as an array type."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -1019,6 +1066,7 @@
             "text": "Array indexing should be the only form of pointer arithmetic and it should be applied only to objects defined as an array type."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -1039,6 +1087,7 @@
             "text": "Array indexing should be the only form of pointer arithmetic and it should be applied only to objects defined as an array type."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -1059,6 +1108,7 @@
             "text": "Array indexing should be the only form of pointer arithmetic and it should be applied only to objects defined as an array type."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -1079,6 +1129,7 @@
             "text": "Array indexing should be the only form of pointer arithmetic and it should be applied only to objects defined as an array type."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -1099,6 +1150,7 @@
             "text": "Array indexing should be the only form of pointer arithmetic and it should be applied only to objects defined as an array type."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -1119,6 +1171,7 @@
             "text": "Array indexing should be the only form of pointer arithmetic and it should be applied only to objects defined as an array type."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -1139,6 +1192,7 @@
             "text": "Array indexing should be the only form of pointer arithmetic and it should be applied only to objects defined as an array type."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -1159,6 +1213,7 @@
             "text": "Array indexing should be the only form of pointer arithmetic and it should be applied only to objects defined as an array type."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -1179,6 +1234,7 @@
             "text": "Array indexing should be the only form of pointer arithmetic and it should be applied only to objects defined as an array type."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -1199,6 +1255,7 @@
             "text": "Array indexing should be the only form of pointer arithmetic and it should be applied only to objects defined as an array type."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -1219,6 +1276,7 @@
             "text": "Array indexing should be the only form of pointer arithmetic and it should be applied only to objects defined as an array type."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -1239,6 +1297,7 @@
             "text": "Array indexing should be the only form of pointer arithmetic and it should be applied only to objects defined as an array type."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -1259,6 +1318,7 @@
             "text": "Array indexing should be the only form of pointer arithmetic and it should be applied only to objects defined as an array type."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -1279,6 +1339,7 @@
             "text": "Array indexing should be the only form of pointer arithmetic and it should be applied only to objects defined as an array type."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -1299,6 +1360,7 @@
             "text": "Array indexing should be the only form of pointer arithmetic and it should be applied only to objects defined as an array type."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -1319,6 +1381,7 @@
             "text": "There should be no 'integral to floating' implicit cast. Consider inspecting the right operand '0' of the operator '<'."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -1339,6 +1402,7 @@
             "text": "Operands of the '!' operator should have bool essential type."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -1359,6 +1423,7 @@
             "text": "Operands of the '!' operator should have bool essential type."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -1379,6 +1444,7 @@
             "text": "Operands of the '!' operator should have bool essential type."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -1399,6 +1465,7 @@
             "text": "Operands of the '!' operator should have bool essential type."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -1419,6 +1486,7 @@
             "text": "Operands of the '!' operator should have bool essential type."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -1439,6 +1507,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -1459,6 +1528,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -1479,6 +1549,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -1499,6 +1570,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -1519,6 +1591,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -1539,6 +1612,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -1559,6 +1633,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -1579,6 +1654,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -1599,6 +1675,7 @@
             "text": "Array indexing should be the only form of pointer arithmetic and it should be applied only to objects defined as an array type."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -1619,6 +1696,7 @@
             "text": "Array indexing should be the only form of pointer arithmetic and it should be applied only to objects defined as an array type."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -1639,6 +1717,7 @@
             "text": "Array indexing should be the only form of pointer arithmetic and it should be applied only to objects defined as an array type."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -1659,6 +1738,7 @@
             "text": "Array indexing should be the only form of pointer arithmetic and it should be applied only to objects defined as an array type."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -1679,6 +1759,7 @@
             "text": "Array indexing should be the only form of pointer arithmetic and it should be applied only to objects defined as an array type."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -1699,6 +1780,7 @@
             "text": "Array indexing should be the only form of pointer arithmetic and it should be applied only to objects defined as an array type."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -1719,6 +1801,7 @@
             "text": "Array indexing should be the only form of pointer arithmetic and it should be applied only to objects defined as an array type."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -1739,6 +1822,7 @@
             "text": "Array indexing should be the only form of pointer arithmetic and it should be applied only to objects defined as an array type."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -1759,6 +1843,7 @@
             "text": "Array indexing should be the only form of pointer arithmetic and it should be applied only to objects defined as an array type."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -1779,6 +1864,7 @@
             "text": "Array indexing should be the only form of pointer arithmetic and it should be applied only to objects defined as an array type."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -1799,6 +1885,7 @@
             "text": "Array indexing should be the only form of pointer arithmetic and it should be applied only to objects defined as an array type."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -1819,6 +1906,7 @@
             "text": "Array indexing should be the only form of pointer arithmetic and it should be applied only to objects defined as an array type."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -1839,6 +1927,7 @@
             "text": "Array indexing should be the only form of pointer arithmetic and it should be applied only to objects defined as an array type."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -1859,6 +1948,7 @@
             "text": "Array indexing should be the only form of pointer arithmetic and it should be applied only to objects defined as an array type."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -1879,6 +1969,7 @@
             "text": "Array indexing should be the only form of pointer arithmetic and it should be applied only to objects defined as an array type."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -1899,6 +1990,7 @@
             "text": "Array indexing should be the only form of pointer arithmetic and it should be applied only to objects defined as an array type."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -1919,6 +2011,7 @@
             "text": "Array indexing should be the only form of pointer arithmetic and it should be applied only to objects defined as an array type."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -1939,6 +2032,7 @@
             "text": "Array indexing should be the only form of pointer arithmetic and it should be applied only to objects defined as an array type."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -1959,6 +2053,7 @@
             "text": "Array indexing should be the only form of pointer arithmetic and it should be applied only to objects defined as an array type."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -1979,6 +2074,7 @@
             "text": "Array indexing should be the only form of pointer arithmetic and it should be applied only to objects defined as an array type."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -1999,6 +2095,7 @@
             "text": "Array indexing should be the only form of pointer arithmetic and it should be applied only to objects defined as an array type."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -2019,6 +2116,7 @@
             "text": "Array indexing should be the only form of pointer arithmetic and it should be applied only to objects defined as an array type."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -2039,6 +2137,7 @@
             "text": "Array indexing should be the only form of pointer arithmetic and it should be applied only to objects defined as an array type."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -2059,6 +2158,7 @@
             "text": "Array indexing should be the only form of pointer arithmetic and it should be applied only to objects defined as an array type."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -2079,6 +2179,7 @@
             "text": "Array indexing should be the only form of pointer arithmetic and it should be applied only to objects defined as an array type."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -2099,6 +2200,7 @@
             "text": "Array indexing should be the only form of pointer arithmetic and it should be applied only to objects defined as an array type."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -2119,6 +2221,7 @@
             "text": "Array indexing should be the only form of pointer arithmetic and it should be applied only to objects defined as an array type."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -2139,6 +2242,7 @@
             "text": "Array indexing should be the only form of pointer arithmetic and it should be applied only to objects defined as an array type."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -2159,6 +2263,7 @@
             "text": "Array indexing should be the only form of pointer arithmetic and it should be applied only to objects defined as an array type."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -2179,6 +2284,7 @@
             "text": "Array indexing should be the only form of pointer arithmetic and it should be applied only to objects defined as an array type."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -2199,6 +2305,7 @@
             "text": "Array indexing should be the only form of pointer arithmetic and it should be applied only to objects defined as an array type."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -2219,6 +2326,7 @@
             "text": "Array indexing should be the only form of pointer arithmetic and it should be applied only to objects defined as an array type."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -2239,6 +2347,7 @@
             "text": "Array indexing should be the only form of pointer arithmetic and it should be applied only to objects defined as an array type."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -2259,6 +2368,7 @@
             "text": "Array indexing should be the only form of pointer arithmetic and it should be applied only to objects defined as an array type."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -2279,6 +2389,7 @@
             "text": "Array indexing should be the only form of pointer arithmetic and it should be applied only to objects defined as an array type."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -2299,6 +2410,7 @@
             "text": "Array indexing should be the only form of pointer arithmetic and it should be applied only to objects defined as an array type."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -2319,6 +2431,7 @@
             "text": "There should be no 'integral to floating' implicit cast. Consider inspecting the right operand '0' of the operator '<'."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -2339,6 +2452,7 @@
             "text": "Operands of the '!' operator should have bool essential type."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -2359,6 +2473,7 @@
             "text": "Operands of the '!' operator should have bool essential type."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -2379,6 +2494,7 @@
             "text": "Operands of the '!' operator should have bool essential type."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -2399,6 +2515,7 @@
             "text": "Operands of the '!' operator should have bool essential type."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -2419,6 +2536,7 @@
             "text": "Operands of the '!' operator should have bool essential type."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -2439,6 +2557,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -2459,6 +2578,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -2479,6 +2599,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -2499,6 +2620,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -2519,6 +2641,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -2539,6 +2662,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -2559,6 +2683,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -2579,6 +2704,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -2599,6 +2725,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -2619,6 +2746,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -2639,6 +2767,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -2659,6 +2788,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -2679,6 +2809,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -2699,6 +2830,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -2719,6 +2851,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -2739,6 +2872,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -2759,6 +2893,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -2779,6 +2914,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -2799,6 +2935,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -2819,6 +2956,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -2839,6 +2977,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -2859,6 +2998,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -2879,6 +3019,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -2899,6 +3040,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -2919,6 +3061,7 @@
             "text": "There should be no 'integral to floating' implicit cast. Consider inspecting the left operand 'EARTH_CIRCUMFERENCE' of the operator '/'."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -2939,6 +3082,7 @@
             "text": "There should be no 'integral to floating' implicit cast. Consider inspecting the right operand '2' of the operator '/'."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -2959,6 +3103,7 @@
             "text": "Identifiers that contain '__' or start with '_[A-Z]' are reserved. Consider inspecting the '_I64' identifier."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -2979,6 +3124,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -2999,6 +3145,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -3019,6 +3166,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -3039,6 +3187,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -3059,6 +3208,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -3079,6 +3229,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -3099,6 +3250,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -3119,6 +3271,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -3139,6 +3292,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -3159,6 +3313,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -3179,6 +3334,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -3199,6 +3355,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -3219,6 +3376,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -3239,6 +3397,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -3259,6 +3418,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -3279,6 +3439,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -3299,6 +3460,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -3319,6 +3481,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -3339,6 +3502,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -3359,6 +3523,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -3379,6 +3544,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -3399,6 +3565,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -3419,6 +3586,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -3439,6 +3607,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -3459,6 +3628,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -3479,6 +3649,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -3499,6 +3670,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -3519,6 +3691,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -3539,6 +3712,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -3559,6 +3733,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -3579,6 +3754,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -3599,6 +3775,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -3619,6 +3796,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -3639,6 +3817,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -3659,6 +3838,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -3679,6 +3859,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -3699,6 +3880,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -3719,6 +3901,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -3739,6 +3922,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -3759,6 +3943,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -3779,6 +3964,7 @@
             "text": "There should be no 'integral to floating' implicit cast. Consider inspecting the left operand 'EARTH_CIRCUMFERENCE' of the operator '/'."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -3799,6 +3985,7 @@
             "text": "There should be no 'integral to floating' implicit cast. Consider inspecting the right operand '2' of the operator '/'."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -3819,6 +4006,7 @@
             "text": "Identifiers that contain '__' or start with '_[A-Z]' are reserved. Consider inspecting the '_I64' identifier."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -3839,6 +4027,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -3859,6 +4048,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -3879,6 +4069,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -3899,6 +4090,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -3919,6 +4111,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -3939,6 +4132,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -3959,6 +4153,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -3979,6 +4174,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -3999,6 +4195,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -4019,6 +4216,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -4039,6 +4237,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -4059,6 +4258,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -4079,6 +4279,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -4099,6 +4300,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -4119,6 +4321,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -4139,6 +4342,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -4159,6 +4363,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -4179,6 +4384,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -4199,6 +4405,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -4219,6 +4426,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -4239,6 +4447,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -4259,6 +4468,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -4279,6 +4489,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -4299,6 +4510,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -4319,6 +4531,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -4339,6 +4552,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -4359,6 +4573,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -4379,6 +4594,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -4399,6 +4615,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -4419,6 +4636,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -4439,6 +4657,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -4459,6 +4678,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -4479,6 +4699,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -4499,6 +4720,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -4519,6 +4741,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -4539,6 +4762,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -4559,6 +4783,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -4579,6 +4804,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -4599,6 +4825,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -4619,6 +4846,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -4639,6 +4867,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -4659,6 +4888,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -4679,6 +4909,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -4699,6 +4930,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -4719,6 +4951,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -4739,6 +4972,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -4759,6 +4993,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -4779,6 +5014,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -4799,6 +5035,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -4819,6 +5056,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -4839,6 +5077,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -4859,6 +5098,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -4879,6 +5119,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -4899,6 +5140,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -4919,6 +5161,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -4939,6 +5182,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -4959,6 +5203,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -4979,6 +5224,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -4999,6 +5245,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -5019,6 +5266,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -5039,6 +5287,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -5059,6 +5308,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -5079,6 +5329,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -5099,6 +5350,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -5119,6 +5371,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -5139,6 +5392,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -5159,6 +5413,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -5179,6 +5434,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -5199,6 +5455,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -5219,6 +5476,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -5239,6 +5497,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -5259,6 +5518,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -5279,6 +5539,7 @@
             "text": "Every switch-clause should be terminated by an unconditional 'break' or 'throw' statement."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -5329,6 +5590,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -5349,6 +5611,7 @@
             "text": "The string literal should not decay to a pointer to char. Consider inspecting the first function argument."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -5369,6 +5632,7 @@
             "text": "The string literal should not decay to a pointer to char. Consider inspecting the second function argument."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -5389,6 +5653,7 @@
             "text": "Every switch-clause should be terminated by an unconditional 'break' or 'throw' statement."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -5439,6 +5704,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -5459,6 +5725,7 @@
             "text": "The string literal should not decay to a pointer to char. Consider inspecting the first function argument."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -5479,6 +5746,7 @@
             "text": "The string literal should not decay to a pointer to char. Consider inspecting the second function argument."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -5499,6 +5767,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -5519,6 +5788,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -5539,6 +5809,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -5559,6 +5830,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -5579,6 +5851,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -5599,6 +5872,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -5619,6 +5893,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -5639,6 +5914,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -5659,6 +5935,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -5679,6 +5956,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -5699,6 +5977,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -5719,6 +5998,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -5739,6 +6019,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -5759,6 +6040,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -5779,6 +6061,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -5799,6 +6082,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -5819,6 +6103,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -5839,6 +6124,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -5859,6 +6145,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -5879,6 +6166,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -5899,6 +6187,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -5919,6 +6208,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -5939,6 +6229,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -5959,6 +6250,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -5979,6 +6271,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -5999,6 +6292,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -6019,6 +6313,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -6039,6 +6334,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -6059,6 +6355,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -6079,6 +6376,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -6099,6 +6397,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -6119,6 +6418,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -6139,6 +6439,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -6159,6 +6460,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -6179,6 +6481,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -6199,6 +6502,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -6219,6 +6523,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -6239,6 +6544,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -6259,6 +6565,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -6279,6 +6586,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -6299,6 +6607,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -6319,6 +6628,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -6339,6 +6649,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -6359,6 +6670,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -6379,6 +6691,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -6399,6 +6712,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -6419,6 +6733,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -6439,6 +6754,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -6459,6 +6775,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -6479,6 +6796,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -6499,6 +6817,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -6519,6 +6838,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -6539,6 +6859,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -6559,6 +6880,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -6579,6 +6901,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -6599,6 +6922,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -6619,6 +6943,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -6639,6 +6964,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -6659,6 +6985,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -6679,6 +7006,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -6699,6 +7027,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -6719,6 +7048,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -6739,6 +7069,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -6759,6 +7090,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -6779,6 +7111,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -6799,6 +7132,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -6819,6 +7153,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -6839,6 +7174,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -6859,6 +7195,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -6879,6 +7216,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -6899,6 +7237,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -6919,6 +7258,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -6939,6 +7279,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -6959,6 +7300,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -6979,6 +7321,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -6999,6 +7342,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -7019,6 +7363,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -7039,6 +7384,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -7059,6 +7405,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -7079,6 +7426,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -7099,6 +7447,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -7119,6 +7468,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -7139,6 +7489,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
@@ -7159,6 +7510,7 @@
             "text": "The global namespace should only contain 'main', namespace declarations and extern 'C' declaration."
           },
           "level": "error",
+          "artifactLocation": { },
           "locations": [
             {
               "physicalLocation": {
