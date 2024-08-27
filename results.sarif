@@ -174,26 +174,6 @@
       },
       "results": [
         {
-          "ruleId": "V010",
-          "message": {
-            "text": "Analysis of 'Utility' type projects is not supported in this tool. Use direct analyzer integration or compiler monitoring instead."
-          },
-          "level": "error",
-          "locations": [
-            {
-              "physicalLocation": {
-                "artifactLocation": {
-                  "uri": ""
-                },
-                "region": {
-                  "startLine": 1,
-                  "endLine": 1
-                }
-              }
-            }
-          ]
-        },
-        {
           "ruleId": "V2507",
           "message": {
             "text": "The body of the 'if' statement should be enclosed in braces."
