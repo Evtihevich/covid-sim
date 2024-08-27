@@ -1,0 +1,17 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://raw.githubusercontent.com/oasis-tcs/sarif-spec/master/Schemata/sarif-schema-2.1.0.json",
+  "runs": [
+    {
+      "tool": {
+        "driver": {
+          "name": "PVS-Studio",
+          "semanticVersion": "7.32.83831.1182",
+          "informationUri": "https://pvs-studio.com",
+          "rules": []
+        }
+      },
+      "results": []
+    }
+  ]
+}
